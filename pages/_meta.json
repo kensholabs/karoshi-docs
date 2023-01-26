@@ -1,15 +1,15 @@
 {
   "index": "Introduction",
   "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "advanced": "Advanced",
   "about": {
     "title": "About",
     "type": "page"
   },
   "contact": {
-    "title": "Contact ↗",
+    "title": "Contract ↗",
     "type": "page",
-    "href": "https://twitter.com/shuding_",
+    "href": "https://solscan.io/token/L7RAdawwuSubqHFWCBnw8xLW6iCLT5PxYJrcGtFEch4",
     "newWindow": true
   }
 }
