@@ -1,5 +1,8 @@
 {
   "index": "Introduction",
+  "---": {
+    "type": "separator"
+  },
   "another": "Another Page",
   "advanced": "Advanced",
   "about": {
