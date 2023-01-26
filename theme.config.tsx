@@ -5,8 +5,8 @@ const config: DocsThemeConfig = {
   logo: (
     <>
       <svg
-        width="190"
-        height="41"
+        width="195"
+        height="42"
         viewBox="0 0 322 72"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
