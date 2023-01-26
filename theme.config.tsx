@@ -89,9 +89,22 @@ const config: DocsThemeConfig = {
     link: 'https://discord.com',
   },
   docsRepositoryBase: 'https://github.com/kensholabs/karoshi-docs',
+  navigation: {
+      prev: true,
+      next: true
+    },
+    banner: {
+      key: '2.0-release',
+      text: <a href="https://nextra.site" target="_blank">
+        🎉 Nextra 2.0 is released. Read more →
+      </a>
+    },
   footer: {
-    text: 'KAROSHI Docs',
-  },
+      text: <span>
+        MIT {new Date().getFullYear()} © <a href="https://kensho-labs.com" target="_blank">Kensho Labs</a>.
+      </span>,
+    }
+  
 }
 
 export default config
