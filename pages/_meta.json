@@ -4,8 +4,23 @@
     "type": "separator"
   },
   "philosophy": "Philosophy",
-  "another": "Another Page",
-  "advanced": "Advanced",
+  "manifesto": "Manifesto",
+  "vision": "Our Vision",
+  "approach": "Our Approach",
+  "culture": "Degen Culture",
+  "anon": "Stay Anon",
+  "team": "Team",
+  "----": {
+    "type": "separator"
+  },
+  "roadmap": "Roadmap",
+  "lightpaper": "Lightpaper",
+  "overview": "DAO Overview",
+
+  "manga": "Manga",
+  "random": "Random Bits",
+  "legal": "Legal Disclaimer",
+
   "about": {
     "title": "About",
     "type": "page"
