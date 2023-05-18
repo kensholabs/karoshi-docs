@@ -2,7 +2,7 @@
 
 This is the official documentation of KAROSHI DAO   
 
-![](/kw.jpg)
+![](public/kw.jpg)
 
 ## License
 
