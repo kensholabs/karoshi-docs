@@ -98,7 +98,7 @@ const config: DocsThemeConfig = {
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta property="og:title" content="KAROSHI" />
         <meta property="og:description" content="KAROSHI Docs" />
-        <link rel="icon" type="image/x-icon" href="/public/favicon.ico"></link>
+        <link rel="icon" type="image/x-icon" href="public/favicon.ico"></link>
       </>
     ),/* 
     banner: {
