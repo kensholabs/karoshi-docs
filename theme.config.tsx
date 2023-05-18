@@ -93,12 +93,20 @@ const config: DocsThemeConfig = {
       prev: true,
       next: true
     },
+    head: (
+      <>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta property="og:title" content="KAROSHI" />
+        <meta property="og:description" content="KAROSHI Docs" />
+        <link rel="icon" type="image/x-icon" href="/public/favicon.ico"></link>
+      </>
+    ),/* 
     banner: {
       key: '2.0-release',
       text: <a href="https://nextra.site" target="_blank">
         🎉 Nextra 2.0 is released. Read more →
       </a>
-    },
+    }, */
   footer: {
       text: <span style={{ display: 'inline' }}>
         MIT {new Date().getFullYear()} ©. <a href="https://kensho-labs.com" target="_blank">
