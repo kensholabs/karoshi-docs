@@ -1,4 +1,8 @@
 {
   "art1": "Why and How",
+  "05": {
+    "title": "Identity-Aware Dapps, Privacy Preservation, Biometric Authentication, ZKP's, Significance of Private Data, and the Journey to Federated Machine Learning",
+    "type": "page"
+  },
   "litepaper": "Lightpaper"
 }
