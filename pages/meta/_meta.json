@@ -1,5 +1,9 @@
 {
   "art1": "Why and How",
+  "04": {
+    "title": "Foundation Models",
+    "type": "page"
+  },
   "05": {
     "title": "Identity-Aware Dapps and Federated ML",
     "type": "page"
